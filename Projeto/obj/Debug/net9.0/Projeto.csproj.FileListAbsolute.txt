@@ -12,3 +12,4 @@ C:\Users\robos\OneDrive\Documentos\Csharp\Screen Sound\projeto\obj\Debug\net9.0\
 C:\Users\robos\OneDrive\Documentos\Csharp\Screen Sound\projeto\obj\Debug\net9.0\Projeto.pdb
 C:\Users\robos\OneDrive\Documentos\Csharp\Screen Sound\projeto\obj\Debug\net9.0\Projeto.genruntimeconfig.cache
 C:\Users\robos\OneDrive\Documentos\Csharp\Screen Sound\projeto\obj\Debug\net9.0\ref\Projeto.dll
+C:\Users\robos\OneDrive\Documentos\Csharp\Screen Sound\projeto\obj\Debug\net9.0\Projeto.sourcelink.json
